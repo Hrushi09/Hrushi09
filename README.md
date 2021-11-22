@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hrushikesh Reddy Kalyanam
+- 👋 Hi, I’m Hrushikesh Reddy Kalyanam. I have hands-on experience in Java and SQL for more than a year.
 - 👀 I’m interested in coding and Developing new softwares and applications
 - ✔ I'm good at C, Java, JavaScript, Dart, SQL, MongoDB, Html, CSS, Android Studio and Visual Studio.
 - 🌱 I’m currently learning Swift, React and Node JS.
